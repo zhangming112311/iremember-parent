@@ -1,11 +1,17 @@
 /.classpath
 /.project
 /.settings/
-/target/*
+/target/
 /bin/
+/.gitignore
 
 */.classpath
 */.project
 */.settings/
-*/target/*
+*/target/
 */bin/
+*/.gitignore
+.idea/
+*.iml
+*.out.*
+*.out
